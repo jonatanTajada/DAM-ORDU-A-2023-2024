@@ -1,0 +1,11 @@
+
+
+
+					***EJERCICIOS EXTRA POO****
+
+
+EJERCICIO 1 GENERAR_PASSWORD: https://chat.openai.com/share/dfab9d67-78bd-49ab-99f8-20a269de58fc
+
+EJERCICIO 2 LIBRO : https://chat.openai.com/share/c3638b42-bada-4800-9ac2-edc7bae4bc19
+
+EJERCICIO 3 EMPLEADO: https://chat.openai.com/share/dfab9d67-78bd-49ab-99f8-20a269de58fc
